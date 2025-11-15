@@ -2,6 +2,8 @@
 
 A side-by-side comparison of lightweight agentic AI frameworks for Retrieval-Augmented Generation (RAG). This repository implements the same RAG task across three popular frameworks to help you understand their trade-offs.
 
+![Agentic RAG](Agentic-RAG.png)
+
 ## Frameworks Compared
 
 - **LlamaIndex** - Purpose-built for RAG, minimal boilerplate
